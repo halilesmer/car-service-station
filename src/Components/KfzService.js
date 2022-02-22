@@ -1,5 +1,4 @@
 import React from "react";
-import vehicle from "../Assets/vehicle-garage.webp";
 import {texts} from '../Data/texts.js';
 import { Background } from "react-imgix";
 /* import ProgressiveImage from "react-progressive-bg-image";
